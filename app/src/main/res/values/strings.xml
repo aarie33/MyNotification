@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Notification</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="content_title">Content title</string>
+    <string name="content_text">Content text</string>
+    <string name="subtext">Sub text</string>
+    <string name="send_notif">Send notification</string>
+    <string name="text_show_notif">Show notif</string>
+    <string name="notif_title">New notification</string>
+    <string name="notif_content">Pemberitahuan baru neeee</string>
+    <string name="notif_title_sent">Kirim</string>
+    <string name="notif_content_sent">Pesan telah terkirim</string>
+    <string name="notif_action_reply">Reply Notif</string>
+    <string name="hint_reply">Masukkan reply</string>
+</resources>
